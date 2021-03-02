@@ -12,7 +12,7 @@ SERVICES PAGE (1):-
 
 ![responsive-3](https://user-images.githubusercontent.com/69614044/109642290-c9fc9e00-7b78-11eb-8854-86cfbc18132e.PNG)
 
-SERVICES PAGE(3):-
+SERVICES PAGE(2):-
 
 ![res-4](https://user-images.githubusercontent.com/69614044/109642459-029c7780-7b79-11eb-8357-86d0aeb30972.PNG)
 
@@ -21,4 +21,4 @@ CONTACT US PAGE:-
 ![res-5](https://user-images.githubusercontent.com/69614044/109642686-4d1df400-7b79-11eb-99f0-7bd69d0d2b83.PNG)
 
 
-A Hint File is Included in This Repository You Can use to Create your Own Responsive Website.💫
+A Hint File 🧧 is Included in This Repository You Can use to Create your Own Responsive Website.💫
